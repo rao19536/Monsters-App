@@ -1,0 +1,13 @@
+input{
+    width:300px;
+    height:38px;
+    border-radius: 4px;
+  }
+  .center{
+    display: block;
+    margin: 0 auto;
+  }
+  .text-center{
+    text-align: center;
+  }
+  
